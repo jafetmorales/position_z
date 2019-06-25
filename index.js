@@ -1,4 +1,4 @@
-AFRAME.registerComponent('zinga___position_z', {
+AFRAME.registerComponent('zinga_position_z', {
     schema: {
     speed: {type: 'number', default: -.005}
   },

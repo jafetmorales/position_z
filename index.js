@@ -1,4 +1,4 @@
-AFRAME.registerComponent('jafetmorales--zinga_position_z--v0_1', {
+AFRAME.registerComponent('zinga_position_z', {
     schema: {
     speed: {type: 'number', default: -.005}
   },
